@@ -606,7 +606,7 @@ text-align: center;
   display: flex;
   flex-direction: column;
   position: relative;
-  top: -500px;
+  top: -450px;
   align-content: flex-start ;
   gap: 50px;
   margin-left: 450px; /* Same as the width of the sidenav */
